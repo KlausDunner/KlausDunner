@@ -5,7 +5,7 @@
 > Hello there, i do { **HTML/JS** }. :computer:
 > 
 > 
-> Contact me **klausdunner on discord.**
+> Contact: **klausdunner on discord.**
 >
 > [![Status](https://github-readme-stats.vercel.app/api?username=KlausDunner&show_icons=true&hide_border=true&theme=gruvbox&count_private=true)](https://github.com/KlausDunner) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlausDunner&theme=gruvbox&langs_count=10&layout=compact)
 >
